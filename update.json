@@ -1,7 +1,7 @@
 {
   "latest_version": "1.0.0",
-  "update_message": "نسخه جدید لانچر منتشر شد!",
-  "server_ip": "87.107.155.110",
-  "server_port": 15226,
-  "players_online": 0
+  "update_message": "Update jadid ezafe shod",
+  "server_ip": "127.0.0.1",
+  "server_port": "7777",
+  "players_online": "0"
 }
