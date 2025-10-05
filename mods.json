@@ -1,0 +1,25 @@
+{
+  "mods": [
+    {
+      "name": "BMW M4 GTS",
+      "category": "Car",
+      "version": "1.0",
+      "description": "Add BMW M4 car to the game",
+      "download_url": "https://example.com/mods/bmw.zip"
+    },
+    {
+      "name": "CJ Skin Pack",
+      "category": "Skin",
+      "version": "1.2",
+      "description": "New clothes for CJ",
+      "download_url": "https://example.com/mods/cj_skin.zip"
+    },
+    {
+      "name": "Map Expansion",
+      "category": "Map",
+      "version": "1.0",
+      "description": "Add new map area to the game",
+      "download_url": "https://example.com/mods/map.zip"
+    }
+  ]
+}
