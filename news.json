@@ -1,6 +1,12 @@
-{
-  "news": [
-    { "title": "Update jadid 1.0.0", "content": "Server ha sabet shodan" },
-    { "title": "Bug fix", "content": "Crash ha dorost shodan" }
-  ]
-}
+[
+  {
+    "title": "🎃 Halloween Event Released!",
+    "image": "https://raw.githubusercontent.com/YOURUSER/STARK-SAMP-DATA/main/news/halloween.jpg",
+    "body": "Join our Halloween event with new maps and rewards!"
+  },
+  {
+    "title": "🚗 New Cars Pack Available",
+    "image": "https://raw.githubusercontent.com/YOURUSER/STARK-SAMP-DATA/main/news/cars.jpg",
+    "body": "Download the HD Car Pack from Mods section to enjoy the new vehicles."
+  }
+]
