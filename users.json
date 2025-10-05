@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "amir",
+    "family": "esi",
+    "phone": "98",
+    "email": "azmjhandydh@gmail.com",
+    "registered_at": "2025-10-05T20:48:17.707087Z"
+  }
+]
